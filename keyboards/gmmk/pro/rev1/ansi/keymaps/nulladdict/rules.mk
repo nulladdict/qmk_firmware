@@ -1,0 +1,5 @@
+DEBOUNCE_TYPE = sym_eager_pk
+VIA_ENABLE = yes
+MOUSEKEY_ENABLE = no
+MIDI_ENABLE = no
+LTO_ENABLE = yes
